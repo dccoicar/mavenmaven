@@ -1,0 +1,5 @@
+com\phantom\util\Constante.class
+com\phantom\service\ICrudDao.class
+com\phantom\controller\ProductoController.class
+com\phantom\entity\Producto.class
+com\phantom\model\ProductoDaoMemory.class
